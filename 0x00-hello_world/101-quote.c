@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main
+ * main - this prints exactly the input on  it
  *
  * Return: Always 1 (Success)
  */
