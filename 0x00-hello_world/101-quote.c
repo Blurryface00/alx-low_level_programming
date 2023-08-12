@@ -1,3 +1,4 @@
+// This C program writes a message to the standard error.
 #include <stdio.h>
 #include <unistd.h>
 
